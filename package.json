@@ -1,0 +1,29 @@
+{
+  "name": "stickers_bot_whatsapp",
+  "version": "1.0.0",
+  "description": "convert image to sticker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhN-Te/stickers_bot_whatsapp.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "whatsapp",
+    "sticker",
+    "bot"
+  ],
+  "author": "Jhonata Tenório",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JhN-Te/stickers_bot_whatsapp/issues"
+  },
+  "homepage": "https://github.com/JhN-Te/stickers_bot_whatsapp#readme",
+  "dependencies": {
+    "venom-bot": "^2.0.23"
+  }
+}
